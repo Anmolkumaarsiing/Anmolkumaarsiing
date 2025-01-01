@@ -24,7 +24,9 @@
 ![image](https://github.com/user-attachments/assets/3c411c66-3d6d-4d3f-94bc-a5a2907e1457)
 
 <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anmolkumaarsiing&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+![image](https://github.com/user-attachments/assets/bcb3bf79-50f6-4bf2-8231-326e318704ed)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=anmolkumaarsiing&theme=radical&no-frame=false&no-bg=true&margin-w=4)
