@@ -1,4 +1,7 @@
-![210012254-234538ff-d198-48aa-8964-37e6fd45d227](https://github.com/user-attachments/assets/7468bb59-3eaa-47aa-96de-8119ca95197e)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7468bb59-3eaa-47aa-96de-8119ca95197e" alt="Retro PC GIF" />
+</p>
+
 <p align="center">
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=fff&center=true&width=435&lines=नमस्ते%2C+I'm+Anmol+%F0%9F%91%8B">
