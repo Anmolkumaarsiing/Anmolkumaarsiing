@@ -2,8 +2,6 @@
   <img src="https://raw.githubusercontent.com/Anmolkumaarsiing/Anmolkumaarsiing/main/Assets/retro%20gif.gif" width="5500" />
 </p>
 
-
-
 <p align="center">
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=fff&center=true&width=435&lines=नमस्ते%2C+I'm+Anmol+%F0%9F%91%8B">
