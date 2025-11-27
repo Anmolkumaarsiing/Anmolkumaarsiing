@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7468bb59-3eaa-47aa-96de-8119ca95197e" alt="Retro PC GIF" />
+  <img src="https://raw.githubusercontent.com/Anmolkumaarsiing/Anmolkumaarsiing/main/Assets/retro%20gif.gif" width="5500" />
 </p>
+
+
 
 <p align="center">
 
